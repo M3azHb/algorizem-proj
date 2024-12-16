@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\bin\Debug\net8.0\proj.algorezem.exe
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\bin\Debug\net8.0\proj.algorezem.deps.json
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\bin\Debug\net8.0\proj.algorezem.runtimeconfig.json
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\bin\Debug\net8.0\proj.algorezem.dll
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\bin\Debug\net8.0\proj.algorezem.pdb
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\proj.algorezem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\proj.algorezem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\proj.algorezem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\proj.algorezem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\proj.algorezem.dll
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\refint\proj.algorezem.dll
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\proj.algorezem.pdb
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\proj.algorezem.genruntimeconfig.cache
+C:\Users\DELL\source\repos\proj.algorezem\proj.algorezem\obj\Debug\net8.0\ref\proj.algorezem.dll
